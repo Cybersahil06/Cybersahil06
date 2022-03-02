@@ -31,6 +31,5 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
  </div>
  <hr>
- [Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersahil06&show_icons=true&theme=tokyonight)
  
 
