@@ -33,3 +33,4 @@ Hi, I am Sahil
  </div>
  <hr>
 
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybersahil06&show_icons=true&theme=radical)
