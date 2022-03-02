@@ -1,11 +1,9 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
-<!-- Hi, I am Sahil
-## About Me
-<p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar.  -->
-
+# Hello, folks! 
+<p>I am Sahil</p>
+ <hr>
+ Connect With Me On
  <br>
-  
- ## 📧📌Connect With Me🐧
+ <br>
  <a href="mailto:savvysain@gmail.com"><img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
  <a href="https://www.linkedin.com/in/sahil-jain-32725921b/"><img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a>
  <a href="https://github.com/Cybersahil06">:octocat:</a>
