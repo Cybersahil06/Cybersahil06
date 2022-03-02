@@ -1,6 +1,7 @@
-Hi, I am Sahil
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
+<!-- Hi, I am Sahil
 ## About Me
-<p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. 
+<p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar.  -->
 
  <br>
   
