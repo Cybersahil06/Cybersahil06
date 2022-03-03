@@ -12,7 +12,7 @@
  <hr>
  
  ## <Visitor's Count>🧐
- ![VisitorCount](https://profile-counter.glitch.me/techSun-07/count.svg) 
+ ![VisitorCount](https://profile-counter.glitch.me/Cybersahil06/count.svg) 
  <hr>
  
  ## Skill-Set🚀
